@@ -20,7 +20,7 @@ public class BrandController {
     @GetMapping("/login")
     @ApiOperation(value = "品牌列表", notes = "获取所有品牌信息")
     public ResponseData<Brand> brandList() {
-
+        System.out.println(brandService);
         List<Brand> brands = brandService.brandList();
 
         if (brands != null) {

@@ -11,5 +11,5 @@
     <dubbo:application name="${dubbo.application}" />
     <dubbo:registry protocol="zookeeper" address="${dubbo.address}"/>
     <dubbo:annotation package="com.zcpt.controller" />
-    <dubbo:consumer timeout="8000" retries="0" check="false"/>
+    <dubbo:consumer timeout="8000" retries="0" check="true"/>
 </beans>

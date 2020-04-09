@@ -12,7 +12,6 @@
     <dubbo:application name="${dubbo.application}" />
     <dubbo:registry protocol="zookeeper" address="${dubbo.address}" />
     <dubbo:annotation package="com.zcpt.service" />
-    <!--<context:annotation-config/>-->
 
     <dubbo:provider timeout="10000" threadpool="fixed" threads="100" accepts="1000"/>
 </beans>

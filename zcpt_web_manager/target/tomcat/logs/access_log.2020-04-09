@@ -122,3 +122,8 @@
 0:0:0:0:0:0:0:1 - - [09/Apr/2020:22:18:05 +0800] "GET /swagger-resources/configuration/ui HTTP/1.1" 200 496 http-bio-8088-exec-4 230
 0:0:0:0:0:0:0:1 - - [09/Apr/2020:22:18:05 +0800] "GET /v2/api-docs HTTP/1.1" 200 1241 http-bio-8088-exec-6 191
 0:0:0:0:0:0:0:1 - - [09/Apr/2020:22:18:09 +0800] "GET /manager/goods/login HTTP/1.1" 200 39 http-bio-8088-exec-8 36
+0:0:0:0:0:0:0:1 - - [09/Apr/2020:22:39:05 +0800] "GET /webjars/bycdao-ui/images/api.ico HTTP/1.1" 200 67646 http-bio-8088-exec-1 192
+0:0:0:0:0:0:0:1 - - [09/Apr/2020:22:39:06 +0800] "GET /swagger-resources HTTP/1.1" 200 90 http-bio-8088-exec-5 661
+0:0:0:0:0:0:0:1 - - [09/Apr/2020:22:39:06 +0800] "GET /swagger-resources/configuration/ui HTTP/1.1" 200 496 http-bio-8088-exec-4 671
+0:0:0:0:0:0:0:1 - - [09/Apr/2020:22:39:06 +0800] "GET /v2/api-docs HTTP/1.1" 200 1241 http-bio-8088-exec-7 264
+0:0:0:0:0:0:0:1 - - [09/Apr/2020:22:39:11 +0800] "GET /manager/goods/login HTTP/1.1" 200 39 http-bio-8088-exec-8 101
