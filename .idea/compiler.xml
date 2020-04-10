@@ -8,7 +8,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="zcpt_web_manager" />
-        <module name="liuliu_service_goods" />
         <module name="zcpt_common_web" />
         <module name="zcpt_common" />
         <module name="zcpt_pojo" />
@@ -16,5 +15,9 @@
         <module name="zcpt_common_service" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="zcpt_common_interface" target="8" />
+      <module name="zcpt_service_goods" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

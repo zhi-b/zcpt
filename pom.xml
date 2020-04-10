@@ -15,7 +15,6 @@
         <module>zcpt_pojo</module>
         <module>zcpt_interface</module>
         <module>zcpt_web_manager</module>
-        <module>liuliu_service_goods</module>
     </modules>
     <!-- 集中定义依赖版本号 -->
     <properties>
