@@ -7,15 +7,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="zcpt_interface" />
         <module name="zcpt_web_manager" />
         <module name="zcpt_common_web" />
-        <module name="zcpt_common" />
+        <module name="zcpt_service_realname" />
+        <module name="zcpt_service_order" />
         <module name="zcpt_pojo" />
-        <module name="zcpt_interface" />
+        <module name="zcpt_common" />
         <module name="zcpt_common_service" />
+        <module name="zcpt_service_projects" />
+        <module name="zcpt_service_system" />
+        <module name="zcpt_web_portal" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="liuliu_service_goods" target="8" />
+      <module name="zcpt_common_cas" target="1.7" />
       <module name="zcpt_common_interface" target="8" />
       <module name="zcpt_service_goods" target="8" />
     </bytecodeTargetLevel>

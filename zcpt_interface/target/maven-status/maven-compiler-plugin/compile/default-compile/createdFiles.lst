@@ -1,0 +1,12 @@
+com\zcpt\projects\ICollectionService.class
+com\zcpt\projects\IProjectService.class
+com\zcpt\realname\IUserService.class
+com\zcpt\order\IOrderService.class
+com\zcpt\projects\IAnswerService.class
+com\zcpt\system\IPrivilegeService.class
+com\zcpt\projects\IQuestionService.class
+com\zcpt\realname\IRealNameService.class
+com\zcpt\system\IRoleService.class
+com\zcpt\projects\ICategoryService.class
+com\zcpt\system\IRolePriviService.class
+com\zcpt\system\IManagerService.class

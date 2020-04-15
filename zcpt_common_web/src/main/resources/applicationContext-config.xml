@@ -35,21 +35,21 @@
         <property name="defaultEncoding" value="UTF-8"></property>
     </bean>
     <!--       配置拦截器-->
-    <mvc:interceptors>
+<!--    <mvc:interceptors>-->
         <!--        允许跨域-->
-        <mvc:interceptor>
-            <mvc:mapping path="/**"/>
-            <bean class="com.zcpt.utils.HttpInterceptor"></bean>
-        </mvc:interceptor>
+<!--        <mvc:interceptor>-->
+<!--            <mvc:mapping path="/**"/>-->
+<!--            <bean class="com.zcpt.utils.HttpInterceptor"></bean>-->
+<!--        </mvc:interceptor>-->
         <!--        校验token-->
-        <mvc:interceptor>
-            <mvc:mapping path="/**"/>
-            <!--            对swagger的请求及其资源不拦截校验-->
-            <mvc:exclude-mapping path="/swagger-resources/**"/><!-- swagger静态资源-->
-            <mvc:exclude-mapping path="/v2/**"/><!-- swagger静态资源-->
-            <mvc:exclude-mapping path="/doc.html#/**"/><!-- swagger静态资源-->
-            <mvc:exclude-mapping path="/webjars/**"/><!-- swagger静态资源-->
-            <bean class="com.zcpt.utils.HeaderTokenInterceptor"></bean>
-        </mvc:interceptor>
-    </mvc:interceptors>
+<!--        <mvc:interceptor>-->
+<!--            <mvc:mapping path="/**"/>-->
+<!--            &lt;!&ndash;            对swagger的请求及其资源不拦截校验&ndash;&gt;-->
+<!--            <mvc:exclude-mapping path="/swagger-resources/**"/>&lt;!&ndash; swagger静态资源&ndash;&gt;-->
+<!--            <mvc:exclude-mapping path="/v2/**"/>&lt;!&ndash; swagger静态资源&ndash;&gt;-->
+<!--            <mvc:exclude-mapping path="/doc.html#/**"/>&lt;!&ndash; swagger静态资源&ndash;&gt;-->
+<!--            <mvc:exclude-mapping path="/webjars/**"/>&lt;!&ndash; swagger静态资源&ndash;&gt;-->
+<!--            <bean class="com.zcpt.utils.HeaderTokenInterceptor"></bean>-->
+<!--        </mvc:interceptor>-->
+<!--    </mvc:interceptors>-->
 </beans>

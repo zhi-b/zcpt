@@ -1,2 +1,16 @@
-com\zcpt\entity\ResponseCode.class
+com\zcpt\pojo\system\Privilege.class
 com\zcpt\entity\ResponseData.class
+com\zcpt\pojo\projects\Project.class
+com\zcpt\pojo\system\Role.class
+com\zcpt\pojo\users\User.class
+com\zcpt\pojo\projects\Answer.class
+com\zcpt\pojo\system\RolePrivi.class
+com\zcpt\pojo\order\Order.class
+com\zcpt\pojo\projects\Question.class
+com\zcpt\pojo\order\Address.class
+com\zcpt\entity\ResponseCode.class
+com\zcpt\pojo\projects\Category.class
+com\zcpt\pojo\users\Realname.class
+com\zcpt\pojo\projects\Collection.class
+com\zcpt\pojo\projects\Progress.class
+com\zcpt\pojo\system\Manager.class

@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/zcpt_common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zcpt_common/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/zcpt_common_service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zcpt_common_service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zcpt_common_web/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zcpt_common_web/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zcpt_interface/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/zcpt_interface/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zcpt_pojo/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/zcpt_pojo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zcpt_service_order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zcpt_service_order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zcpt_service_projects/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zcpt_service_projects/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zcpt_service_realname/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zcpt_service_realname/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zcpt_service_system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zcpt_service_system/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zcpt_web_manager/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zcpt_web_manager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zcpt_web_portal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zcpt_web_portal/src/main/resources" charset="UTF-8" />
   </component>
 </project>

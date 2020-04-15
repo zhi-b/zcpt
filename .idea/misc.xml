@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://D:/IdeaProjects/zcpt_service_order" />
+    <file type="web" url="file://$PROJECT_DIR$/zcpt_common_cas" />
+    <file type="web" url="file://$PROJECT_DIR$/zcpt_pojo" />
     <file type="web" url="file://$PROJECT_DIR$/zcpt_service_goods" />
+    <file type="web" url="file://$PROJECT_DIR$/zcpt_service_order" />
+    <file type="web" url="file://$PROJECT_DIR$/zcpt_service_projects" />
+    <file type="web" url="file://$PROJECT_DIR$/zcpt_service_realname" />
+    <file type="web" url="file://$PROJECT_DIR$/zcpt_service_system" />
     <file type="web" url="file://$PROJECT_DIR$/zcpt_web_manager" />
+    <file type="web" url="file://$PROJECT_DIR$/zcpt_web_portal" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -16,6 +24,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/zcpt_common_cas/pom.xml" />
         <option value="$PROJECT_DIR$/zcpt_service_goods/pom.xml" />
       </set>
     </option>

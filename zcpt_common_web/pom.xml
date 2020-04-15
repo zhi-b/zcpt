@@ -18,11 +18,6 @@
     </dependency>
     <dependency>
         <groupId>com.zcpt</groupId>
-        <artifactId>zcpt_pojo</artifactId>
-        <version>1.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-        <groupId>com.zcpt</groupId>
         <artifactId>zcpt_interface</artifactId>
         <version>1.0-SNAPSHOT</version>
     </dependency>
