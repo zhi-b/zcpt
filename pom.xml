@@ -25,7 +25,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>4.12</junit.version>
-        <spring.version>5.0.5.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <jwt.version>0.9.1</jwt.version>
         <servlet-api.version>2.5</servlet-api.version>
         <dubbo.version>2.6.0</dubbo.version>
